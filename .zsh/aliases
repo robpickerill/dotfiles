@@ -1,1 +1,4 @@
 alias config='/usr/bin/git --git-dir=/Users/rob/.cfg/.git/ --work-tree=/Users/rob'
+alias vim='nvim'
+alias oldvim='/vim'
+alias vimdiff='nvim -d'
